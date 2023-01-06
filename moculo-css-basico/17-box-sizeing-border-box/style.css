@@ -1,0 +1,13 @@
+div{
+    margin: 40px;
+    padding: 20px;
+    border: 10px solid green;
+}
+
+.com-border-box{
+    background-color: aquamarine;
+   
+}
+.sem-border-box{
+    background-color: brown;
+}
