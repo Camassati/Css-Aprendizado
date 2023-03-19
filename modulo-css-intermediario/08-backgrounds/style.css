@@ -1,0 +1,38 @@
+p{
+    color: coral;
+    font-size: 24px;
+    font-weight: bold;
+}
+.bg{
+    background-color: lightgreen;
+    background-image: url(./image/izuku-midoriya_cke.webp);
+   }
+
+.bg-image{
+    width: 600px; 
+    height: 336px;;
+}
+.bg-repeat{
+    background-repeat: no-repeat;
+    height: 336px;
+}
+.bg-size-cover{
+    background-size: cover;
+    height: 336px;
+}
+.bg-fixed{
+    background-attachment: fixed;
+    height: 336px;
+
+}
+.bg-position{
+    /*background-position: left;
+    background-repeat: no-repeat;
+    height: 336px;
+    */
+    height: 336px;
+
+    background: #000 url(./image/izuku-midoriya_cke.webp)
+    no-repeat;
+    
+}
